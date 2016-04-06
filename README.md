@@ -1,5 +1,5 @@
 ### What is this?
-In the interest of saving everyone's time we (the team hiring DevOps Engineers) at BarclaycardUS use homework assignments to pre-qualify candidates.  This lets us be objective during the interviews and focus on the candidate's ability to solve complex problems and defend their choice of technology or approach as opposed to their experience in the context of their role at their last/current client, project, or job.  We also evaluate how the candidates handle stress, time pressure, criticism and scrutiny from peers, management or operations teams.
+In the interest of saving everyone's time we (the team hiring DevOps Engineers) at BarclaycardUS use homework assignments to pre-qualify candidates.  This lets us be objective during the interviews and focus on the candidate's ability to solve complex problems and defend their choice of technology or approach as opposed to their experience in the context of their role at their last/current client, project, or job.  We also evaluate how candidates handle stress, time pressure, criticism and scrutiny from peers, management or operations teams.
 
 ### TL;DR
 
