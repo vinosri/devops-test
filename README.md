@@ -24,7 +24,7 @@ This is intentionally an open ended assignment.  Have fun with it and be prepare
 
 
 ### Caveats
-Source code repository - we are assuming you will use GitHub - should be configured to execute a CI test (via Travis or Drone.io) when changes are introduced to it.  However, the test fixture itself can always return success as test automation is not the subject of this assignment.
+Source code repository – we are assuming you will use GitHub – should be configured to execute a CI test (via Travis or Drone.io) when changes are introduced to it.  However, the test fixture itself can always return success as test automation is not the subject of this assignment.
 
 You may use any free or open source OS, software packages, tools, etc. to develop your solution.
 
